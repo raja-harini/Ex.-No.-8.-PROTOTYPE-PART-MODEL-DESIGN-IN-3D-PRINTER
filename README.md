@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.  3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 16/11/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: HARINI R
+### Register Number: 212223100010
+
+### MALAYSIAN TWIN TOWER MODEL
+
+![proj](https://github.com/user-attachments/assets/cbb69342-c6dc-48a6-8b1f-959968a967ca)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
